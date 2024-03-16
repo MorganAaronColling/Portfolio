@@ -9,10 +9,6 @@ import HelloWorld from './components/HelloWorld.vue'
 
     <div class="wrapper">
       <HelloWorld msg="Morgan Colling" />
-      <p> 
-        <br/>
-        <----- some pixel art I made ☺
-      </p>
       <nav>
         <RouterLink to="/">Home</RouterLink>
         <RouterLink to="/about">About</RouterLink>
