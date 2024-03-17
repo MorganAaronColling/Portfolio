@@ -5,7 +5,7 @@ import HelloWorld from './components/HelloWorld.vue'
 
 <template>
   <header>
-    <img alt="Baph Pixel Art Logo" class="logo" src="@/assets/logoBaph.png" width="125" height="125" />
+    <img alt="Baph Pixel Art Logo" class="logo" src="@/assets/profileImage.jpg" width="160" height="160" />
 
     <div class="wrapper">
       <HelloWorld msg="Morgan Colling" />
